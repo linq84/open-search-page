@@ -1,0 +1,56 @@
+﻿@font-face{
+	font-family:"Nexa";
+	src:url("NexaThin.woff") format("woff"),
+	    url("NexaThin.otf") format("truetype");
+	font-style: normal;
+    font-weight: 100;
+    font-display: swap;
+}
+@font-face{
+	font-family:"Nexa";
+	src:url("NexaLight.woff") format("woff"),
+	    url("NexaLight.otf") format("truetype");
+	font-style: normal;
+    font-weight: 200;
+    font-display: swap;
+}
+@font-face{
+	font-family:"Nexa";
+	src:url("NexaLightItalic.woff") format("woff"),
+	    url("NexaLightItalic.otf") format("truetype");
+	font-style: italic;
+    font-weight: 200;
+    font-display: swap;
+}
+@font-face{
+	font-family:"Nexa";
+	src:url("NexaRegular.woff") format("woff"),
+	    url("NexaRegular.otf") format("truetype");
+	font-style: normal;
+    font-weight: 400;
+    font-display: swap;
+}
+@font-face{
+	font-family:"Nexa";
+	src:url("NexaBold.woff") format("woff"),
+	    url("NexaBold.otf") format("truetype");
+	font-style: normal;
+    font-weight: 600;
+    font-display: swap;
+}
+@font-face{
+	font-family:"Nexa";
+	src:url("NexaBoldItalic.woff") format("woff"),
+	    url("NexaBoldItalic.otf") format("truetype");
+	font-style: italic;
+    font-weight: 600;
+    font-display: swap;
+}
+@font-face{
+	font-family:"Nexa";
+	src:url("NexaHeavy.woff") format("woff"),
+	    url("NexaHeavy.otf") format("truetype");
+	font-style: normal;
+    font-weight: 800;
+    font-display: swap;
+}

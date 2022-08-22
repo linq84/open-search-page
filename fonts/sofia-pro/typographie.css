@@ -1,0 +1,73 @@
+﻿@font-face {
+    font-family: 'Sofia Pro';
+    font-style: normal;
+    font-weight: 400;
+    src: local('Sofia Pro'), url('SofiaProRegularAz.woff') format('woff');
+}
+@font-face {
+    font-family: 'Sofia Pro';
+    font-style: italic;
+    font-weight: 400;
+    src: local('Sofia Pro'), url('SofiaProRegularItalicAz.woff') format('woff');
+}
+@font-face {
+    font-family: 'Sofia Pro';
+    font-style: normal;
+    font-weight: 300;
+    src: local('Sofia Pro'), url('SofiaProLightAz.woff') format('woff');
+}
+@font-face {
+    font-family: 'Sofia Pro';
+    font-style: italic;
+    font-weight: 300;
+    src: local('Sofia Pro'), url('SofiaProLightItalicAz.woff') format('woff');
+}
+@font-face {
+    font-family: 'Sofia Pro';
+    font-style: normal;
+    font-weight: 500;
+    src: local('Sofia Pro'), url('SofiaProMediumAz.woff') format('woff');
+}
+@font-face {
+    font-family: 'Sofia Pro';
+    font-style: italic;
+    font-weight: 500;
+    src: local('Sofia Pro'), url('SofiaProMediumItalicAz.woff') format('woff');
+}
+@font-face {
+    font-family: 'Sofia Pro';
+    font-style: normal;
+    font-weight: 600;
+    src: local('Sofia Pro'), url('SofiaProSemiBoldAz.woff') format('woff');
+}
+@font-face {
+    font-family: 'Sofia Pro';
+    font-style: italic;
+    font-weight: 600;
+    src: local('Sofia Pro'), url('SofiaProSemiBoldItalicAz.woff') format('woff');
+}
+@font-face {
+    font-family: 'Sofia Pro';
+    font-style: normal;
+    font-weight: 700;
+    src: local('Sofia Pro'), url('SofiaProBoldAz.woff') format('woff');
+}
+@font-face {
+    font-family: 'Sofia Pro';
+    font-style: italic;
+    font-weight: 700;
+    src: local('Sofia Pro'), url('SofiaProBoldItalicAz.woff') format('woff');
+}
+@font-face {
+    font-family: 'Sofia Pro';
+    font-style: normal;
+    font-weight: 900;
+    src: local('Sofia Pro'), url('SofiaProBlackAz.woff') format('woff');
+}
+@font-face {
+    font-family: 'Sofia Pro';
+    font-style: italic;
+    font-weight: 900;
+    src: local('Sofia Pro'), url('SofiaProBlackItalicAz.woff') format('woff');
+}
+
